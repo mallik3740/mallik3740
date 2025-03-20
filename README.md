@@ -31,16 +31,7 @@
 📩 **Email:** mallikarjunagowda450@gmail.com  
 
 ## 👨‍💻 All of my projects are available at  
-🔗 **[My GitHub](https://github.com/mallik3740)**  
-
-## 📝 I regularly write articles on  
-📝 **[Blog Link](#)**  
-
-## 📄 Know about my experiences  
-📄 **[Resume Link](#)**  
-
-## ⚡ Fun fact  
-😆 *I think I am funny!*  
+🔗 **[My GitHub](https://github.com/mallik3740)** 
 
 ---
 
