@@ -7,7 +7,7 @@
 
 ## 🔭 I’m currently working on  
 - **Blockchain-Based Voting System**  
-  - A decentralized, secure, and transparent voting platform. 
+- A decentralized, secure, and transparent voting platform. 
 
 ## 👯 I’m looking to collaborate on  
 - **Open-source projects in MERN stack & frontend development**  
