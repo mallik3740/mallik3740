@@ -1,86 +1,102 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun S Patil</h1>
-<h3 align="center">A Passionate Frontend and Backend Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mallik3740&label=Profile%20views&color=0e75b6&style=flat" alt="mallik3740" /> </p>
-
----
-
-## 🔭 I’m currently working on  
-- **Blockchain-Based Voting System**  
-- A decentralized, secure, and transparent voting platform. 
-
-## 👯 I’m looking to collaborate on  
-- **Open-source projects in MERN stack & frontend development**  
-- Web applications that focus on **real-time features, UI/UX enhancement, and performance optimization**. 
-
-## 🤝 I’m looking for help with  
-- **System Design & Scalable Architecture** – Learning how to design efficient, scalable backend systems.  
-- **Optimizing Frontend Performance** – Reducing render times and improving UX for large-scale web applications.  
-- **Advanced DSA (Data Structures & Algorithms)** – Preparing for **coding interviews and competitive programming**.
-
-## 🌱 I’m currently learning  
-- **Next.js, Redux, Tailwind CSS, GraphQL & WebSockets, Cloud Computing (AWS, Docker, CI/CD)**  
-
-## 💬 Ask me about  
-- **React.js, Node.js, Express.js, MongoDB**  
-
-## 📫 How to reach me  
-📩 **Email:** mallikarjunagowda450@gmail.com  
-
-## 👨‍💻 All of my projects are available at  
-🔗 **[My GitHub](https://github.com/mallik3740)** 
-
----
-
-## 🚀 Skills & Technologies  
-
-### **💻 Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-### **🎨 Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-### **⚙️ Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### **☁️ DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-
-### **🛠️ Tools & Others**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallik3740&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<h3 align="center">Software Engineer | Full Stack Developer | React.js • Next.js • Node.js • MongoDB</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallik3740&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallik3740&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://komarev.com/ghpvc/?username=mallik3740">
+    <img src="https://komarev.com/ghpvc/?username=mallik3740&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 🔗 Connect with Me  
+## 👨‍💻 About Me
+
+- 💼 Software Engineer at **SR Integrated Circuit India Pvt. Ltd.**
+- 💻 Passionate Full Stack Developer specializing in modern web applications
+- 🚀 Skilled in **React.js, Next.js, Node.js, Express.js, MongoDB, JavaScript & TypeScript**
+- 🌱 Currently learning **AWS, Docker, CI/CD, System Design & Scalable Architecture**
+- 🎯 Open to Full Stack Developer opportunities and exciting collaborations
+
+---
+
+## 🔭 Current Focus
+
+- Building scalable Full Stack web applications
+- Developing modern UI with React.js & Next.js
+- Designing secure REST APIs using Node.js & Express.js
+- Exploring Cloud Computing and DevOps
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- C
+- C++
+
+### Frontend
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
+- Docker
+- AWS (Learning)
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 Personal Portfolio
+- 🛒 E-Commerce Platform
+- 📚 Student Management System
+- 🏥 Hospital Management System
+- 🗳 Blockchain-Based Voting System
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **mallikarjungowda450@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/mallikarjunpatil37
+- 🌐 Portfolio: https://mallikarjun-s-patil-portfolio.vercel.app
+- 💻 GitHub: https://github.com/mallik3740
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/mallik3740"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://
+  <img src="https://github-readme-stats.vercel.app/api?username=mallik3740&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallik3740&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallik3740&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative Full Stack projects, contributing to open source, and connecting with developers worldwide.
